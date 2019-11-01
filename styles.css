@@ -102,7 +102,7 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
-ul.skills, ul.interests, ul.projects {
+ul.skills, ul.experience, ul.projects, ul.hobbies, ul.games {
   padding: 0;
   text-align: center;
 }
@@ -217,18 +217,17 @@ a.social:hover {
   margin: 2px;
 }
 
-
 .projects li {
-  background: #1d95b3;
+  background: #4f73d6;
 
 }
 
 .hobbies li {
-  background: #c9098f;
+  background: #d118c8;
 
 }
 
 .games li {
-  background: #c4321f;
+  background: #29aa54;
 
 }
