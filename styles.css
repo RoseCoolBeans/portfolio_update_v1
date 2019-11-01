@@ -205,8 +205,10 @@ a.social:hover {
 
 }
 
+.experience li,
 .projects li,
-.interests li {
+.hobbies li,
+.games li {
   border-radius: 6px;
   display: inline-block;
   background: #9f52f8;
@@ -216,7 +218,17 @@ a.social:hover {
 }
 
 
-.interests li {
+.projects li {
   background: #1d95b3;
+
+}
+
+.hobbies li {
+  background: #c9098f;
+
+}
+
+.games li {
+  background: #c4321f;
 
 }
